@@ -1,7 +1,6 @@
 ---
 - abc.html: def.html
 - abc.html: def.html
-- abc.html: def.html
 - abd: def
 - abd/: def
 - Abd: def
