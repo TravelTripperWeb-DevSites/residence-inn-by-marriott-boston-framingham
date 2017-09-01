@@ -1,3 +1,10 @@
 ---
 - def: ''
 - abd: index/html
+- address: contact-us
+- blog: blog/
+- SUBSCRIBE: home/
+- Press-Releases/: press/
+- Dining: dining/
+- location: location/
+- events: events/
