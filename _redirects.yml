@@ -1,1 +1,7 @@
---- []
+---
+- abc: index
+- abc/: index
+- Abc: index
+- Abc/: index
+- ABC: index
+- ABC/: index
