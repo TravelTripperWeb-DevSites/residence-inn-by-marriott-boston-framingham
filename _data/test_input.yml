@@ -1,0 +1,13 @@
+_hidden: secret
+__EDITABLE_FIELDS__:
+  name: 
+    required: true
+    placeholder: your name
+  bio:
+    label: Biography
+    hint: enter a bio
+    type: richtext
+  birthday:
+    type: date
+    instructions: This should be pretty obvious?
+    
