@@ -3,11 +3,77 @@ __EDITABLE_FIELDS__:
   name: 
     required: true
     placeholder: your name
+    label: Name
+    hint: Here's a hint
+    instructions: Here's how to do it
   bio:
     label: Biography
     hint: enter a bio
     type: richtext
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
+
   birthday:
     type: date
+    label: Birthday
     instructions: This should be pretty obvious?
+    hint: Here's a hint
+    placeholder: Placeholder
+
+  text:
+    type: text
+  url_slug:
+    type: url_slug
+    label: URL Slug makes sense for this?
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
+
+  integer:
+    type: integer
+    label: Integer
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
+  float: 
+    type: float
+    label: Float
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
+  date_time:
+    type: date_time
+    label: Date & Time
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
+
+
+  enum:
+    type: enum
+    label: Enum
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
+
+    multiple: false
+    default_text: "Pick one"
+    options: 
+      - Opt 1
+      - Opt Two
+  select:
+    label: Select
+    type: select
+    multiple: true
+    options:
+      - The Good
+      - The Bad
+      - The Ugly
+  bool:
+    type: bool
+    label: Does this work?
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
     
