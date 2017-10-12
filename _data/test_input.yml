@@ -23,7 +23,7 @@ __EDITABLE_FIELDS__:
 
   text:
     type: text
-    label: URL Slug makes sense for this?
+    label: Text Area
     hint: Here's a hint
     instructions: Here's how to do it
     placeholder: Placeholder
