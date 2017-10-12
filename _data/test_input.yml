@@ -23,6 +23,10 @@ __EDITABLE_FIELDS__:
 
   text:
     type: text
+    label: URL Slug makes sense for this?
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
   url_slug:
     type: url_slug
     label: URL Slug makes sense for this?
