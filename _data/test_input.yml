@@ -1,7 +1,8 @@
+---
 _hidden: secret
 name: Alex
 __EDITABLE_FIELDS__:
-  name: 
+  name:
     required: true
     placeholder: your name
     label: Name
@@ -9,19 +10,16 @@ __EDITABLE_FIELDS__:
     instructions: Here's how to do it
   bio:
     label: Biography
-    hint: enter a bio
-    type: richtext
     hint: Here's a hint
+    type: richtext
     instructions: Here's how to do it
     placeholder: Placeholder
-
   birthday:
     type: date
     label: Birthday
     instructions: This should be pretty obvious?
     hint: Here's a hint
     placeholder: Placeholder
-
   text:
     type: text
     label: Text Area
@@ -34,14 +32,13 @@ __EDITABLE_FIELDS__:
     hint: Here's a hint
     instructions: Here's how to do it
     placeholder: Placeholder
-
   integer:
     type: integer
     label: Integer
     hint: Here's a hint
     instructions: Here's how to do it
     placeholder: Placeholder
-  float: 
+  float:
     type: float
     label: Float
     hint: Here's a hint
@@ -53,28 +50,25 @@ __EDITABLE_FIELDS__:
     hint: Here's a hint
     instructions: Here's how to do it
     placeholder: Placeholder
-
-
   enum:
     type: enum
     label: Enum
     hint: Here's a hint
     instructions: Here's how to do it
     placeholder: Placeholder
-
     multiple: false
-    default_text: "Pick one"
-    options: 
-      - Opt 1
-      - Opt Two
+    default_text: Pick one
+    options:
+    - Opt 1
+    - Opt Two
   select:
     label: Select
     type: select
     multiple: true
     options:
-      - The Good
-      - The Bad
-      - The Ugly
+    - The Good
+    - The Bad
+    - The Ugly
   bool:
     type: bool
     default: true
@@ -82,4 +76,3 @@ __EDITABLE_FIELDS__:
     hint: Here's a hint
     instructions: Here's how to do it
     placeholder: Placeholder
-    
