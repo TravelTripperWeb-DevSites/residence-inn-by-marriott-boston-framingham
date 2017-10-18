@@ -8,6 +8,13 @@ __EDITABLE_FIELDS__:
     label: Name
     hint: Here's a hint
     instructions: Here's how to do it
+  logo:
+    type: image
+    required: true
+    placeholder: pick an image
+    label: Logo Image
+    hint: Here's a hint
+    instructions: Here's how to do it
   bio:
     label: Biography
     hint: Here's a hint
