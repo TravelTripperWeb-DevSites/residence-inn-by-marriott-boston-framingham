@@ -84,3 +84,7 @@ __EDITABLE_FIELDS__:
     instructions: Here's how to do it
     placeholder: Placeholder
 bio: "<p><strong>This is a story!</strong></p>"
+logo:
+  url: http://edit---residence-inn-by-marriott-boston-framingham-700.lvh.me:3000/assets/images/Facility3.jpg
+  path: "/assets/images/Facility3.jpg"
+  name: Facility3.jpg
