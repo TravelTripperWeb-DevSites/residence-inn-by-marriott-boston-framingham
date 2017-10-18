@@ -1,9 +1,9 @@
 {
   "name": "Lead Photo",
   "image": {
-    "url": "http://d2r4g49zv9n1lp.cloudfront.net/1191/41908_1_master.jpg",
-    "alt": "test",
-    "caption": "test"
+    "alt": "",
+    "caption": "",
+    "description": ""
   },
   "order": 1,
   "hidden": true
