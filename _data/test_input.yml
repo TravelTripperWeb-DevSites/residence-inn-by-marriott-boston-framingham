@@ -93,3 +93,4 @@ logo:
   description: ''
 integer: 2
 float: 35.55
+bool: true
