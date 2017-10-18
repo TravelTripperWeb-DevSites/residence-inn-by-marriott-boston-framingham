@@ -1,4 +1,5 @@
 _hidden: secret
+name: Alex
 __EDITABLE_FIELDS__:
   name: 
     required: true
