@@ -1,7 +1,7 @@
 ---
 _hidden: secret
 name: Alexander
-detected_address: 
+detected_address:
   line1: 123 Main St
   latitude: 333.45
 __EDITABLE_FIELDS__:
@@ -120,3 +120,6 @@ bool: false
 address:
   line1: Test
   state: MD
+  fancy:
+  - TWO
+  - Three
