@@ -1,1 +1,5 @@
-{}
+{
+  "slug": {
+    "type": "url_slug"
+  }
+}
