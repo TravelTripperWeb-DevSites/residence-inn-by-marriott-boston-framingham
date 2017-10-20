@@ -21,6 +21,8 @@ __EDITABLE_FIELDS__:
       state:
         type: select     
         options: ["MA", "MD", "ME"]
+        hint: Here's a hint
+        instructions: Here's how to do it
       fancy:
         multiple: true        
   logo:
