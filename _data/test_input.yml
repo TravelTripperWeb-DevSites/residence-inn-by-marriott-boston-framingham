@@ -41,6 +41,10 @@ __EDITABLE_FIELDS__:
     label: Logo Image
     hint: Here's a hint
     instructions: Here's how to do it
+  banner_images:
+    type: image
+    multiple: true
+    label: Banners
   bio:
     label: Biography
     hint: Here's a hint
