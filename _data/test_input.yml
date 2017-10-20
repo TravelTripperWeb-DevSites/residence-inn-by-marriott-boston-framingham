@@ -131,17 +131,6 @@ address:
   - TWO
   - Three
 banner_images:
-- name: Image 4
-  tags: gallery
-  order: 4
-  url: http://d2r4g49zv9n1lp.cloudfront.net/1191/41911_1_master.jpg
-  description: ''
-  caption: ''
-  alt: eee
-  date_added: 2017-08-08-110743
-  git_file_name: _assets/image_data/image-4.json
-  path: http://d2r4g49zv9n1lp.cloudfront.net/1191/41911_1_master.jpg
-  file_size: 
 - name: pdf_logo_sample
   file_name: pdf_logo_sample.gif
   file_type: image/gif
@@ -160,4 +149,42 @@ banner_images:
   git_file_name: _assets/image_data/pdf_logo_sample.json
   path: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/pdf-logo-sample.gif"
   alt: abc
+  caption: ''
+- name: WallWithVentStays-BeamAndPostDetail
+  file_name: WallWithVentStays-BeamAndPostDetail.jpg
+  file_type: image/jpeg
+  url: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/WallWithVentStays-BeamAndPostDetail.jpg"
+  tags: ''
+  file_size: 1293096
+  width: 2000
+  height: 2667
+  description: ''
+  date_added: 2017-10-18-152257
+  url_large: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/large_WallWithVentStays-BeamAndPostDetail.jpg"
+  url_medium: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/medium_WallWithVentStays-BeamAndPostDetail.jpg"
+  url_small: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/small_WallWithVentStays-BeamAndPostDetail.jpg"
+  url_xsmall: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/xsmall_WallWithVentStays-BeamAndPostDetail.jpg"
+  url_thumb: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/thumb_WallWithVentStays-BeamAndPostDetail.jpg"
+  git_file_name: _assets/image_data/WallWithVentStays-BeamAndPostDetail.json
+  path: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/WallWithVentStays-BeamAndPostDetail.jpg"
+  alt: ssss
+  caption: ''
+- name: SmallBeamSupportedOverDoorHeader
+  file_name: SmallBeamSupportedOverDoorHeader.jpg
+  file_type: image/jpeg
+  url: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/SmallBeamSupportedOverDoorHeader.jpg"
+  tags: ''
+  file_size: 763117
+  width: 2000
+  height: 1500
+  description: ''
+  date_added: 2017-10-18-152225
+  url_large: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/large_SmallBeamSupportedOverDoorHeader.jpg"
+  url_medium: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/medium_SmallBeamSupportedOverDoorHeader.jpg"
+  url_small: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/small_SmallBeamSupportedOverDoorHeader.jpg"
+  url_xsmall: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/xsmall_SmallBeamSupportedOverDoorHeader.jpg"
+  url_thumb: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/thumb_SmallBeamSupportedOverDoorHeader.jpg"
+  git_file_name: _assets/image_data/SmallBeamSupportedOverDoorHeader.json
+  path: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/SmallBeamSupportedOverDoorHeader.jpg"
+  alt: def
   caption: ''
