@@ -128,8 +128,8 @@ address:
   line1: Test
   state: MD
   fancy:
-  - TWO
   - Three
+  - TWO
 banner_images:
 - name: pdf_logo_sample
   file_name: pdf_logo_sample.gif
