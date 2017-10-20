@@ -131,24 +131,24 @@ address:
   - Three
   - TWO
 banner_images:
-- name: pdf_logo_sample
-  file_name: pdf_logo_sample.gif
-  file_type: image/gif
-  url: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/pdf-logo-sample.gif"
+- name: SmallBeamSupportedOverDoorHeader
+  file_name: SmallBeamSupportedOverDoorHeader.jpg
+  file_type: image/jpeg
+  url: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/SmallBeamSupportedOverDoorHeader.jpg"
   tags: ''
-  file_size: 25122
-  width: 468
-  height: 400
+  file_size: 763117
+  width: 2000
+  height: 1500
   description: ''
-  date_added: 2017-09-27-112307
-  url_large: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/large_pdf_logo_sample.gif"
-  url_medium: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/medium_pdf_logo_sample.gif"
-  url_small: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/small_pdf_logo_sample.gif"
-  url_xsmall: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/xsmall_pdf_logo_sample.gif"
-  url_thumb: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/thumb_pdf_logo_sample.gif"
-  git_file_name: _assets/image_data/pdf_logo_sample.json
-  path: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/pdf-logo-sample.gif"
-  alt: abc
+  date_added: 2017-10-18-152225
+  url_large: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/large_SmallBeamSupportedOverDoorHeader.jpg"
+  url_medium: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/medium_SmallBeamSupportedOverDoorHeader.jpg"
+  url_small: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/small_SmallBeamSupportedOverDoorHeader.jpg"
+  url_xsmall: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/xsmall_SmallBeamSupportedOverDoorHeader.jpg"
+  url_thumb: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/thumb_SmallBeamSupportedOverDoorHeader.jpg"
+  git_file_name: _assets/image_data/SmallBeamSupportedOverDoorHeader.json
+  path: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/SmallBeamSupportedOverDoorHeader.jpg"
+  alt: def
   caption: ''
 - name: WallWithVentStays-BeamAndPostDetail
   file_name: WallWithVentStays-BeamAndPostDetail.jpg
@@ -169,22 +169,22 @@ banner_images:
   path: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/WallWithVentStays-BeamAndPostDetail.jpg"
   alt: ssss
   caption: ''
-- name: SmallBeamSupportedOverDoorHeader
-  file_name: SmallBeamSupportedOverDoorHeader.jpg
-  file_type: image/jpeg
-  url: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/SmallBeamSupportedOverDoorHeader.jpg"
+- name: pdf_logo_sample
+  file_name: pdf_logo_sample.gif
+  file_type: image/gif
+  url: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/pdf-logo-sample.gif"
   tags: ''
-  file_size: 763117
-  width: 2000
-  height: 1500
+  file_size: 25122
+  width: 468
+  height: 400
   description: ''
-  date_added: 2017-10-18-152225
-  url_large: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/large_SmallBeamSupportedOverDoorHeader.jpg"
-  url_medium: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/medium_SmallBeamSupportedOverDoorHeader.jpg"
-  url_small: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/small_SmallBeamSupportedOverDoorHeader.jpg"
-  url_xsmall: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/xsmall_SmallBeamSupportedOverDoorHeader.jpg"
-  url_thumb: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/thumb_SmallBeamSupportedOverDoorHeader.jpg"
-  git_file_name: _assets/image_data/SmallBeamSupportedOverDoorHeader.json
-  path: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/SmallBeamSupportedOverDoorHeader.jpg"
-  alt: def
+  date_added: 2017-09-27-112307
+  url_large: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/large_pdf_logo_sample.gif"
+  url_medium: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/medium_pdf_logo_sample.gif"
+  url_small: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/small_pdf_logo_sample.gif"
+  url_xsmall: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/xsmall_pdf_logo_sample.gif"
+  url_thumb: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/thumb_pdf_logo_sample.gif"
+  git_file_name: _assets/image_data/pdf_logo_sample.json
+  path: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/pdf-logo-sample.gif"
+  alt: abc
   caption: ''
