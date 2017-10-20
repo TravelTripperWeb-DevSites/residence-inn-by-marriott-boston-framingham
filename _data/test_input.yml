@@ -15,16 +15,19 @@ __EDITABLE_FIELDS__:
     instructions: Here's how to do it
     type: complex
     fields:
-      line1: 
+      line1:
         required: true
         label: Street 1
       state:
-        type: select     
-        options: ["MA", "MD", "ME"]
+        type: select
+        options:
+        - MA
+        - MD
+        - ME
         hint: Here's a hint
         instructions: Here's how to do it
       fancy:
-        multiple: true        
+        multiple: true
   logo:
     type: image
     required: true
@@ -111,3 +114,4 @@ logo:
 integer: 2
 float: 35.55
 bool: false
+address: Test
