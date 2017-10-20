@@ -31,6 +31,9 @@ __EDITABLE_FIELDS__:
         instructions: Here's how to do it
       fancy:
         multiple: true
+        hint: Here's a hint
+        instructions: Here's how to do it
+        placeholder: Placeholder
   logo:
     type: image
     required: true
