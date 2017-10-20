@@ -1,6 +1,9 @@
 ---
 _hidden: secret
 name: Alexander
+detected_address: 
+  line1: 123 Main St
+  latitude: 333.45
 __EDITABLE_FIELDS__:
   name:
     required: true
