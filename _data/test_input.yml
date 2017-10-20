@@ -8,6 +8,21 @@ __EDITABLE_FIELDS__:
     label: Name
     hint: Here's a hint
     instructions: Here's how to do it
+  address:
+    placeholder: address
+    label: Complex Address
+    hint: Here's a hint
+    instructions: Here's how to do it
+    type: complex
+    fields:
+      line1: 
+        required: true
+        label: Street 1
+      state:
+        type: select     
+        options: ["MA", "MD", "ME"]
+      fancy:
+        multiple: true        
   logo:
     type: image
     required: true
