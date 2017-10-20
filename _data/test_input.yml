@@ -114,4 +114,6 @@ logo:
 integer: 2
 float: 35.55
 bool: false
-address: Test
+address:
+  line1: Test
+  state: MD
