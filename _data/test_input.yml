@@ -118,7 +118,7 @@ logo:
   url: http://edit---residence-inn-by-marriott-boston-framingham-700.lvh.me:3000/assets/images/Facility3.jpg
   path: "/assets/images/Facility3.jpg"
   name: Facility3.jpg
-  alt: cool room
+  alt: cool
   caption: Cap
   description: ''
 integer: 2
@@ -130,42 +130,4 @@ address:
   fancy:
   - TWO
   - Three
-banner_images:
-- name: WallWithVentStays-BeamAndPostDetail
-  file_name: WallWithVentStays-BeamAndPostDetail.jpg
-  file_type: image/jpeg
-  url: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/WallWithVentStays-BeamAndPostDetail.jpg"
-  tags: ''
-  file_size: 1293096
-  width: 2000
-  height: 2667
-  description: ''
-  date_added: 2017-10-18-152257
-  url_large: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/large_WallWithVentStays-BeamAndPostDetail.jpg"
-  url_medium: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/medium_WallWithVentStays-BeamAndPostDetail.jpg"
-  url_small: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/small_WallWithVentStays-BeamAndPostDetail.jpg"
-  url_xsmall: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/xsmall_WallWithVentStays-BeamAndPostDetail.jpg"
-  url_thumb: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/thumb_WallWithVentStays-BeamAndPostDetail.jpg"
-  git_file_name: _assets/image_data/WallWithVentStays-BeamAndPostDetail.json
-  path: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/WallWithVentStays-BeamAndPostDetail.jpg"
-  alt: ''
-  caption: ''
-- name: Wall-DrawingLeft
-  file_name: Wall-DrawingLeft.jpg
-  file_type: image/jpeg
-  url: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152242/Wall-DrawingLeft.jpg"
-  tags: ''
-  file_size: 875583
-  width: 2000
-  height: 1500
-  description: ''
-  date_added: 2017-10-18-152242
-  url_large: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152242/large_Wall-DrawingLeft.jpg"
-  url_medium: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152242/medium_Wall-DrawingLeft.jpg"
-  url_small: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152242/small_Wall-DrawingLeft.jpg"
-  url_xsmall: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152242/xsmall_Wall-DrawingLeft.jpg"
-  url_thumb: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152242/thumb_Wall-DrawingLeft.jpg"
-  git_file_name: _assets/image_data/Wall-DrawingLeft.json
-  path: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152242/Wall-DrawingLeft.jpg"
-  alt: ''
-  caption: ''
+banner_images: 
