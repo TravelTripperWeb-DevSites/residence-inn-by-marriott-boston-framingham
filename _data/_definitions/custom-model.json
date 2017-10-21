@@ -8,7 +8,7 @@
   "single_amenity": {
     "type": "model",
     "multiple": false,
-    "model": "amenities",
+    "model_name": "amenities",
     "display_field": "name"
   },
   "multi_amenity": {
