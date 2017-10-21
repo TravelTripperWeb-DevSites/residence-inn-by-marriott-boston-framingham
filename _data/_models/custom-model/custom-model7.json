@@ -1,3 +1,10 @@
 {
-  "slug": "abcdef"
+  "slug": "abcdef",
+  "single_amenity": "amenities5",
+  "name": "Test",
+  "multi_amenity": [
+    "amenities15",
+    "amenities16",
+    "amenities19"
+  ]
 }
