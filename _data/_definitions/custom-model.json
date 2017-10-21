@@ -10,11 +10,11 @@
     "multiple": false,
     "model": "amenities",
     "display_field": "name"
-  }.
+  },
   "multi_amenity": {
     "type": "model",
     "multiple": true,
-    "model": "amenities",
+    "model_name": "amenities",
     "display_field": "name"
   }
 }
