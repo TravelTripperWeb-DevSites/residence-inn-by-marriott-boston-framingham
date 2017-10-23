@@ -1,9 +1,5 @@
 {
-  "slug": "Test2",
-  "name": {
-    "en": "My-Model is great!",
-    "es": "Espanol"
-  },
+  "slug": "Test2-slug",
   "basic_image": {
     "name": "IMG_0076",
     "file_name": "IMG_0076.jpg",
@@ -24,7 +20,11 @@
     "alt": "Hey",
     "caption": ""
   },
-  "translated_image": {
+  "name_localized": {
+    "en": "My-Model is great!",
+    "es": "Español"
+  },
+  "translated_image_localized": {
     "en": {
       "name": "pdf_logo_sample",
       "file_name": "pdf_logo_sample.gif",
@@ -60,7 +60,7 @@
       "file_size": null
     }
   },
-  "translated_image_list": {
+  "translated_image_list_localized": {
     "en": [
       {
         "name": "SubEnvironmentSelectionPath-2",
@@ -170,7 +170,7 @@
       }
     ]
   },
-  "nested_translated": {
+  "nested_translated_localized": {
     "en": {
       "part_one": "test"
     },
@@ -178,9 +178,5 @@
       "part_one": "prueba",
       "part_two": "dos"
     }
-  },
-  "name_localized": {
-    "en": "My-Model is great!",
-    "es": "Espanol"
   }
 }
