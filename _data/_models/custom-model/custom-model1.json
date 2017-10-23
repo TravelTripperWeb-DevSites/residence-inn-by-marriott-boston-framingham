@@ -129,5 +129,14 @@
         "caption": "es"
       }
     ]
+  },
+  "nested_translated": {
+    "en": {
+      "part_one": "test"
+    },
+    "es": {
+      "part_one": "prueba",
+      "part_two": "dos"
+    }
   }
 }
