@@ -22,7 +22,7 @@
   "translated_image_list": {
     "type": "image",
     "localizable": true,
-    "mutiple": true
+    "multiple": true
   },
   "nested_translated": {
      "localizable": true,
