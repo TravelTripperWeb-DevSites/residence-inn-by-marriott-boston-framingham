@@ -12,6 +12,13 @@
     "model_name": "amenities",
     "display_field": "name"
   },
+  "basic_image": {
+   "type": "image" 
+  },
+  "translated_image": {
+    "type": "image",
+    "localizable": true
+  }
   "multi_amenity": {
     "type": "model",
     "multiple": true,
