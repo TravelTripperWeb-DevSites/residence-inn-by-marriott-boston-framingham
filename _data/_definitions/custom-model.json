@@ -26,6 +26,7 @@
   },
   "nested_translated": {
      "localizable": true,
+     "type": "nested",
      "fields": {
        "part_one": {},
        "part_two": {}
