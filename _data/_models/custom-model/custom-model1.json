@@ -178,5 +178,11 @@
       "part_one": "prueba",
       "part_two": "dos"
     }
-  }
+  },
+  "single_amenity": "amenities19",
+  "multi_amenity": [
+    "amenities15",
+    "amenities19",
+    "amenities2"
+  ]
 }
