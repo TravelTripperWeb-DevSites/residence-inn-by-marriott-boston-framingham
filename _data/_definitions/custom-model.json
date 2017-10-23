@@ -19,6 +19,18 @@
     "type": "image",
     "localizable": true
   },
+  "translated_image_list": {
+    "type": "image",
+    "localizable": true,
+    "mutiple": true
+  },
+  "nested_translated": {
+     "localizable": true,
+     "fields": {
+       "part_one": {},
+       "part_two": {}
+     }
+  },
   "multi_amenity": {
     "type": "model",
     "multiple": true,
