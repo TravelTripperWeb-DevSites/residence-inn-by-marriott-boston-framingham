@@ -1,4 +1,7 @@
 {
   "slug": "Test2",
-  "name": "My-Model is great"
+  "name": {
+    "en": "My-Model is great",
+    "es": "Espanol"
+  }
 }
