@@ -1,8 +1,8 @@
 {
   "slug": "Test2",
   "name": {
-    "en": "My-Model is great!e",
-    "es": "Espanol!"
+    "en": "My-Model is great!",
+    "es": "Espanol"
   },
   "basic_image": {
     "name": "IMG_0076",
@@ -178,5 +178,9 @@
       "part_one": "prueba",
       "part_two": "dos"
     }
+  },
+  "name_localized": {
+    "en": "My-Model is great!",
+    "es": "Espanol"
   }
 }
