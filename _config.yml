@@ -36,7 +36,7 @@ sass:
 baseurl: ""
 permalink: pretty
 default_lang: 'en'
-languages: ['en']
+languages: ['en', 'es']
 
 
 # Build settings
