@@ -1,7 +1,24 @@
 {
   "name": "Yay",
   "photos": [
-
+    {
+      "name": "Wall1-Interior",
+      "file_name": "Wall1-Interior.jpg",
+      "file_type": "image/jpeg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-181334/Wall1-Interior.jpg",
+      "tags": "",
+      "file_size": 2647964,
+      "width": 4032,
+      "height": 3024,
+      "description": "",
+      "date_added": "2017-11-15-181334",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-181334/large_Wall1-Interior.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-181334/medium_Wall1-Interior.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-181334/small_Wall1-Interior.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-181334/xsmall_Wall1-Interior.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-181334/thumb_Wall1-Interior.jpg",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-181334/Wall1-Interior.jpg"
+    }
   ],
   "description": ""
 }
