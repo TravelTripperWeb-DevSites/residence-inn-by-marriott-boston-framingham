@@ -59,25 +59,6 @@
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-181334/Wall1-Interior.jpg"
     },
     {
-      "name": "WallWithVentStays-BeamAndPostDetail",
-      "file_name": "WallWithVentStays-BeamAndPostDetail.jpg",
-      "file_type": "image/jpeg",
-      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/WallWithVentStays-BeamAndPostDetail.jpg",
-      "tags": "",
-      "file_size": 1293096,
-      "width": 2000,
-      "height": 2667,
-      "description": "",
-      "date_added": "2017-10-18-152257",
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/large_WallWithVentStays-BeamAndPostDetail.jpg",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/medium_WallWithVentStays-BeamAndPostDetail.jpg",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/small_WallWithVentStays-BeamAndPostDetail.jpg",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/xsmall_WallWithVentStays-BeamAndPostDetail.jpg",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/thumb_WallWithVentStays-BeamAndPostDetail.jpg",
-      "git_file_name": "_assets/image_data/WallWithVentStays-BeamAndPostDetail.json",
-      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/WallWithVentStays-BeamAndPostDetail.jpg"
-    },
-    {
       "name": "IMG_0030",
       "file_name": "IMG_0030.jpg",
       "file_type": "image/jpeg",
