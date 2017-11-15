@@ -40,25 +40,6 @@
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152809/propertys-hero-image-moda.jpg"
     },
     {
-      "name": "SubEnvironmentSelectionPath-2",
-      "file_name": "SubEnvironmentSelectionPath-2.png",
-      "file_type": "image/png",
-      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/SubEnvironmentSelectionPath-2.png",
-      "tags": "",
-      "file_size": 42089,
-      "width": 1366,
-      "height": 913,
-      "description": "",
-      "date_added": "2017-10-23-152008",
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/large_SubEnvironmentSelectionPath-2.png",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/medium_SubEnvironmentSelectionPath-2.png",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/small_SubEnvironmentSelectionPath-2.png",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/xsmall_SubEnvironmentSelectionPath-2.png",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/thumb_SubEnvironmentSelectionPath-2.png",
-      "git_file_name": "_assets/image_data/SubEnvironmentSelectionPath-2.json",
-      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/SubEnvironmentSelectionPath-2.png"
-    },
-    {
       "name": "IMG_0076",
       "file_name": "IMG_0076.jpg",
       "file_type": "image/jpeg",
