@@ -73,19 +73,6 @@
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-190254/hoteldivasfvideo.mp4"
     },
     {
-      "name": "hoteldivasfvideo copy 4",
-      "file_name": "hoteldivasfvideo copy 4.mp4",
-      "file_type": "video/mp4",
-      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192323/hoteldivasfvideo-copy-4.mp4",
-      "tags": "",
-      "file_size": 16992797,
-      "width": null,
-      "height": null,
-      "description": "",
-      "date_added": "2017-11-15-192323",
-      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192323/hoteldivasfvideo-copy-4.mp4"
-    },
-    {
       "name": "Wall1-Interior",
       "file_name": "Wall1-Interior.jpg",
       "file_type": "image/jpeg",
