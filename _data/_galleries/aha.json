@@ -134,6 +134,19 @@
       "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192407/xsmall_PlanSketchWithDoors.jpg",
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192407/thumb_PlanSketchWithDoors.jpg",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192407/PlanSketchWithDoors.jpg"
+    },
+    {
+      "name": "hoteldivasfvideo copy 5",
+      "file_name": "hoteldivasfvideo copy 5.mp4",
+      "file_type": "video/mp4",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192426/hoteldivasfvideo-copy-5.mp4",
+      "tags": "",
+      "file_size": 16992797,
+      "width": null,
+      "height": null,
+      "description": "",
+      "date_added": "2017-11-15-192426",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192426/hoteldivasfvideo-copy-5.mp4"
     }
   ],
   "description": ""
