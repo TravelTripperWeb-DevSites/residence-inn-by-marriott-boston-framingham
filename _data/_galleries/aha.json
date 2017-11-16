@@ -116,6 +116,24 @@
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-181334/thumb_Wall1-Interior.jpg",
       "git_file_name": "_assets/image_data/Wall1-Interior.json",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-181334/Wall1-Interior.jpg"
+    },
+    {
+      "name": "PlanSketchWithDoors",
+      "file_name": "PlanSketchWithDoors.jpg",
+      "file_type": "image/jpeg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192407/PlanSketchWithDoors.jpg",
+      "tags": "",
+      "file_size": 2136082,
+      "width": 3024,
+      "height": 4032,
+      "description": "",
+      "date_added": "2017-11-15-192407",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192407/large_PlanSketchWithDoors.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192407/medium_PlanSketchWithDoors.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192407/small_PlanSketchWithDoors.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192407/xsmall_PlanSketchWithDoors.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192407/thumb_PlanSketchWithDoors.jpg",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-192407/PlanSketchWithDoors.jpg"
     }
   ],
   "description": ""
