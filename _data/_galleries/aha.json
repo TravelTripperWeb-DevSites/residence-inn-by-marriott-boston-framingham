@@ -57,25 +57,6 @@
       "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-181334/thumb_Wall1-Interior.jpg",
       "git_file_name": "_assets/image_data/Wall1-Interior.json",
       "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-11-15-181334/Wall1-Interior.jpg"
-    },
-    {
-      "name": "IMG_0031",
-      "file_name": "IMG_0031.jpg",
-      "file_type": "image/jpeg",
-      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151738/IMG-0031.jpg",
-      "tags": "",
-      "file_size": 1785560,
-      "width": 5331,
-      "height": 1536,
-      "description": "",
-      "date_added": "2017-10-23-151738",
-      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151738/large_IMG_0031.jpg",
-      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151738/medium_IMG_0031.jpg",
-      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151738/small_IMG_0031.jpg",
-      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151738/xsmall_IMG_0031.jpg",
-      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151738/thumb_IMG_0031.jpg",
-      "git_file_name": "_assets/image_data/IMG_0031.json",
-      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151738/IMG-0031.jpg"
     }
   ],
   "description": ""
