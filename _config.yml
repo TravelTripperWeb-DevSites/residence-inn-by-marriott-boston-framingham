@@ -5,6 +5,8 @@ keep_files:
 - assets
 rsync_copy:
 - _assets
+include:
+  - _pages
 exclude:
 - sitemap.json
 - media.json
