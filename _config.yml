@@ -37,7 +37,7 @@ sass:
 # Site settings
 baseurl: ""
 permalink: pretty
-default_lang: 'en'
+default_lang: 'es'
 languages: ['en', 'es']
 
 
