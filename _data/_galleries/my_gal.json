@@ -1,0 +1,44 @@
+{
+  "name": "My Gal",
+  "photos": [
+    {
+      "name": "SubEnvironmentSelectionPath-2",
+      "file_name": "SubEnvironmentSelectionPath-2.png",
+      "file_type": "image/png",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/SubEnvironmentSelectionPath-2.png",
+      "tags": "",
+      "file_size": 42089,
+      "width": 1366,
+      "height": 913,
+      "description": "",
+      "date_added": "2017-10-23-152008",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/large_SubEnvironmentSelectionPath-2.png",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/medium_SubEnvironmentSelectionPath-2.png",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/small_SubEnvironmentSelectionPath-2.png",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/xsmall_SubEnvironmentSelectionPath-2.png",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/thumb_SubEnvironmentSelectionPath-2.png",
+      "git_file_name": "_assets/image_data/SubEnvironmentSelectionPath-2.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/SubEnvironmentSelectionPath-2.png"
+    },
+    {
+      "name": "propertys-hero_image-moda",
+      "file_name": "propertys-hero_image-moda.jpg",
+      "file_type": "image/jpeg",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152809/propertys-hero-image-moda.jpg",
+      "tags": "",
+      "file_size": 166340,
+      "width": 2048,
+      "height": 877,
+      "description": "",
+      "date_added": "2017-10-23-152809",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152809/large_propertys-hero_image-moda.jpg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152809/medium_propertys-hero_image-moda.jpg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152809/small_propertys-hero_image-moda.jpg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152809/xsmall_propertys-hero_image-moda.jpg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152809/thumb_propertys-hero_image-moda.jpg",
+      "git_file_name": "_assets/image_data/propertys-hero_image-moda.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152809/propertys-hero-image-moda.jpg"
+    }
+  ],
+  "description": ""
+}

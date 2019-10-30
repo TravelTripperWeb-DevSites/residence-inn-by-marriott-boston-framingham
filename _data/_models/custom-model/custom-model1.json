@@ -1,0 +1,188 @@
+{
+  "slug": "Test2-slug",
+  "basic_image": {
+    "name": "IMG_0076",
+    "file_name": "IMG_0076.jpg",
+    "file_type": "image/jpeg",
+    "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151838/IMG-0076.jpg",
+    "tags": "",
+    "file_size": 171029,
+    "width": 1334,
+    "height": 750,
+    "description": "",
+    "date_added": "2017-10-23-151838",
+    "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151838/large_IMG_0076.jpg",
+    "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151838/medium_IMG_0076.jpg",
+    "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151838/small_IMG_0076.jpg",
+    "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151838/xsmall_IMG_0076.jpg",
+    "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151838/thumb_IMG_0076.jpg",
+    "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-151838/IMG-0076.jpg",
+    "alt": "Hey",
+    "caption": ""
+  },
+  "name_localized": {
+    "en": "My-Model is great!",
+    "es": "Español!"
+  },
+  "translated_image_localized": {
+    "en": {
+      "name": "pdf_logo_sample",
+      "file_name": "pdf_logo_sample.gif",
+      "file_type": "image/gif",
+      "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/pdf-logo-sample.gif",
+      "tags": "",
+      "file_size": 25122,
+      "width": 468,
+      "height": 400,
+      "description": "",
+      "date_added": "2017-09-27-112307",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/large_pdf_logo_sample.gif",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/medium_pdf_logo_sample.gif",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/small_pdf_logo_sample.gif",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/xsmall_pdf_logo_sample.gif",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/thumb_pdf_logo_sample.gif",
+      "git_file_name": "_assets/image_data/pdf_logo_sample.json",
+      "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/pdf-logo-sample.gif",
+      "alt": "English image",
+      "caption": ""
+    },
+    "es": {
+      "name": "Image 5",
+      "tags": "gallery",
+      "order": 5,
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1191/41912_1_master.jpg",
+      "description": "",
+      "caption": "",
+      "alt": "Spanish IMage",
+      "date_added": "2017-08-08-110743",
+      "git_file_name": "_assets/image_data/image-5.json",
+      "path": "http://d2r4g49zv9n1lp.cloudfront.net/1191/41912_1_master.jpg",
+      "file_size": null
+    }
+  },
+  "translated_image_list_localized": {
+    "en": [
+      {
+        "name": "SubEnvironmentSelectionPath-2",
+        "file_name": "SubEnvironmentSelectionPath-2.png",
+        "file_type": "image/png",
+        "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/SubEnvironmentSelectionPath-2.png",
+        "tags": "",
+        "file_size": 42089,
+        "width": 1366,
+        "height": 913,
+        "description": "",
+        "date_added": "2017-10-23-152008",
+        "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/large_SubEnvironmentSelectionPath-2.png",
+        "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/medium_SubEnvironmentSelectionPath-2.png",
+        "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/small_SubEnvironmentSelectionPath-2.png",
+        "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/xsmall_SubEnvironmentSelectionPath-2.png",
+        "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/thumb_SubEnvironmentSelectionPath-2.png",
+        "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-23-152008/SubEnvironmentSelectionPath-2.png",
+        "alt": "Image",
+        "caption": ""
+      },
+      {
+        "name": "WallWithVentStays-BeamAndPostDetail",
+        "file_name": "WallWithVentStays-BeamAndPostDetail.jpg",
+        "file_type": "image/jpeg",
+        "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/WallWithVentStays-BeamAndPostDetail.jpg",
+        "tags": "",
+        "file_size": 1293096,
+        "width": 2000,
+        "height": 2667,
+        "description": "",
+        "date_added": "2017-10-18-152257",
+        "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/large_WallWithVentStays-BeamAndPostDetail.jpg",
+        "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/medium_WallWithVentStays-BeamAndPostDetail.jpg",
+        "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/small_WallWithVentStays-BeamAndPostDetail.jpg",
+        "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/xsmall_WallWithVentStays-BeamAndPostDetail.jpg",
+        "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/thumb_WallWithVentStays-BeamAndPostDetail.jpg",
+        "git_file_name": "_assets/image_data/WallWithVentStays-BeamAndPostDetail.json",
+        "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/WallWithVentStays-BeamAndPostDetail.jpg",
+        "alt": "eng",
+        "caption": ""
+      },
+      {
+        "name": "pdf_logo_sample",
+        "file_name": "pdf_logo_sample.gif",
+        "file_type": "image/gif",
+        "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/pdf-logo-sample.gif",
+        "tags": "",
+        "file_size": 25122,
+        "width": 468,
+        "height": 400,
+        "description": "",
+        "date_added": "2017-09-27-112307",
+        "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/large_pdf_logo_sample.gif",
+        "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/medium_pdf_logo_sample.gif",
+        "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/small_pdf_logo_sample.gif",
+        "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/xsmall_pdf_logo_sample.gif",
+        "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/thumb_pdf_logo_sample.gif",
+        "git_file_name": "_assets/image_data/pdf_logo_sample.json",
+        "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/pdf-logo-sample.gif",
+        "alt": "Logo",
+        "caption": ""
+      }
+    ],
+    "es": [
+      {
+        "name": "WallWithVentStays-BeamAndPostDetail",
+        "file_name": "WallWithVentStays-BeamAndPostDetail.jpg",
+        "file_type": "image/jpeg",
+        "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/WallWithVentStays-BeamAndPostDetail.jpg",
+        "tags": "",
+        "file_size": 1293096,
+        "width": 2000,
+        "height": 2667,
+        "description": "",
+        "date_added": "2017-10-18-152257",
+        "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/large_WallWithVentStays-BeamAndPostDetail.jpg",
+        "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/medium_WallWithVentStays-BeamAndPostDetail.jpg",
+        "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/small_WallWithVentStays-BeamAndPostDetail.jpg",
+        "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/xsmall_WallWithVentStays-BeamAndPostDetail.jpg",
+        "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/thumb_WallWithVentStays-BeamAndPostDetail.jpg",
+        "git_file_name": "_assets/image_data/WallWithVentStays-BeamAndPostDetail.json",
+        "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/WallWithVentStays-BeamAndPostDetail.jpg",
+        "alt": "es2",
+        "caption": ""
+      },
+      {
+        "name": "pdf_logo_sample",
+        "file_name": "pdf_logo_sample.gif",
+        "file_type": "image/gif",
+        "url": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/pdf-logo-sample.gif",
+        "tags": "",
+        "file_size": 25122,
+        "width": 468,
+        "height": 400,
+        "description": "es",
+        "date_added": "2017-09-27-112307",
+        "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/large_pdf_logo_sample.gif",
+        "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/medium_pdf_logo_sample.gif",
+        "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/small_pdf_logo_sample.gif",
+        "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/xsmall_pdf_logo_sample.gif",
+        "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/thumb_pdf_logo_sample.gif",
+        "git_file_name": "_assets/image_data/pdf_logo_sample.json",
+        "path": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/pdf-logo-sample.gif",
+        "alt": "es",
+        "caption": "es"
+      }
+    ]
+  },
+  "nested_translated_localized": {
+    "en": {
+      "part_one": "test"
+    },
+    "es": {
+      "part_one": "prueba",
+      "part_two": "dos"
+    }
+  },
+  "single_amenity": "amenities19",
+  "multi_amenity": [
+    "amenities15",
+    "amenities19",
+    "amenities2"
+  ]
+}

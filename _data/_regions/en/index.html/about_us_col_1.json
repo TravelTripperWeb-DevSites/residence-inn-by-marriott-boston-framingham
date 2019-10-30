@@ -1,1 +1,6 @@
-[{"_template":"html","content":"<p>Edit this text block to give a general overview of the hotel property highlighting location, building characteristics, nearby landmarks, and popular destinations.</p>"}]
+[
+  {
+    "_template": "html",
+    "content": "<p>Edit this text block to give a general overview of the hotel property highlighting location, building characteristics, nearby landmarks, and popular destinations.</p>\n<p><img id=\"1502899158319\" class=\" \" src=\"http://d2r4g49zv9n1lp.cloudfront.net/1191/41911_1_master.jpg\" width=\"373\" height=\"255\" /></p>"
+  }
+]

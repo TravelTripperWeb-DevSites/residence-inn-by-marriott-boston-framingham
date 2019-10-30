@@ -1,0 +1,41 @@
+{
+  "name": {
+    "required": true,
+    "localizable": true
+  },
+  "slug": {
+    "type": "url_slug"
+  },
+  "single_amenity": {
+    "type": "model",
+    "multiple": false,
+    "model_name": "amenities",
+    "display_field": "name"
+  },
+  "basic_image": {
+   "type": "image" 
+  },
+  "translated_image": {
+    "type": "image",
+    "localizable": true
+  },
+  "translated_image_list": {
+    "type": "image",
+    "localizable": true,
+    "multiple": true
+  },
+  "nested_translated": {
+     "localizable": true,
+     "type": "nested",
+     "fields": {
+       "part_one": {},
+       "part_two": {}
+     }
+  },
+  "multi_amenity": {
+    "type": "model",
+    "multiple": true,
+    "model_name": "amenities",
+    "display_field": "name"
+  }
+}

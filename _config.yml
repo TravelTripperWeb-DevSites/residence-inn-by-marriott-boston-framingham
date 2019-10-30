@@ -5,6 +5,8 @@ keep_files:
 - assets
 rsync_copy:
 - _assets
+include:
+  - _pages
 exclude:
 - sitemap.json
 - media.json
@@ -35,8 +37,8 @@ sass:
 # Site settings
 baseurl: ""
 permalink: pretty
-default_lang: 'en'
-languages: ['en']
+default_lang: 'es'
+languages: ['en', 'es']
 
 
 # Build settings

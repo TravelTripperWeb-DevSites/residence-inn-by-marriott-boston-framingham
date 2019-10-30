@@ -1,0 +1,190 @@
+---
+_hidden: secret
+name: Alexander
+detected_address:
+  line1: 123 Main St
+  latitude: 333.45
+__EDITABLE_FIELDS__:
+  name:
+    required: true
+    placeholder: your name
+    label: Name
+    hint: Here's a hint
+    instructions: Here's how to do it
+  address:
+    placeholder: address
+    label: Complex Address
+    hint: Here's a hint
+    instructions: Here's how to do it
+    type: complex
+    fields:
+      line1:
+        required: true
+        label: Street 1
+      state:
+        type: select
+        options:
+        - MA
+        - MD
+        - ME
+        hint: Here's a hint
+        instructions: Here's how to do it
+      fancy:
+        multiple: true
+        hint: Here's a hint
+        instructions: Here's how to do it
+        placeholder: Placeholder
+  logo:
+    type: image
+    required: true
+    placeholder: pick an image
+    label: Logo Image
+    hint: Here's a hint
+    instructions: Here's how to do it
+  banner_images:
+    type: image
+    multiple: true
+    label: Banners
+  bio:
+    label: Biography
+    hint: Here's a hint
+    type: richtext
+    instructions: Here's how to do it
+    placeholder: Placeholder
+  birthday:
+    type: date
+    label: Birthday
+    instructions: This should be pretty obvious?
+    hint: Here's a hint
+    placeholder: Placeholder
+  text:
+    type: text
+    label: Text Area
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
+  url_slug:
+    type: url_slug
+    label: URL Slug makes sense for this?
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
+  integer:
+    type: integer
+    label: Integer
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
+  float:
+    type: float
+    label: Float
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
+  date_time:
+    type: date_time
+    label: Date & Time
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
+  enum:
+    type: enum
+    label: Enum
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
+    multiple: false
+    default_text: Pick one
+    options:
+    - Opt 1
+    - Opt Two
+  select:
+    label: Select
+    type: select
+    multiple: true
+    options:
+    - The Good
+    - The Bad
+    - The Ugly
+  bool:
+    type: bool
+    default: true
+    label: Does this work?
+    hint: Here's a hint
+    instructions: Here's how to do it
+    placeholder: Placeholder
+bio: "<p><strong>This is a story!</strong></p>"
+logo:
+  url: http://edit---residence-inn-by-marriott-boston-framingham-700.lvh.me:3000/assets/images/Facility3.jpg
+  path: "/assets/images/Facility3.jpg"
+  name: Facility3.jpg
+  alt: cool
+  caption: Cap
+  description: ''
+integer: 2
+float: 35.55
+bool: false
+address:
+  line1: Test
+  state: MD
+  fancy:
+  - Three
+  - TWO
+banner_images:
+- name: SmallBeamSupportedOverDoorHeader
+  file_name: SmallBeamSupportedOverDoorHeader.jpg
+  file_type: image/jpeg
+  url: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/SmallBeamSupportedOverDoorHeader.jpg"
+  tags: ''
+  file_size: 763117
+  width: 2000
+  height: 1500
+  description: ''
+  date_added: 2017-10-18-152225
+  url_large: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/large_SmallBeamSupportedOverDoorHeader.jpg"
+  url_medium: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/medium_SmallBeamSupportedOverDoorHeader.jpg"
+  url_small: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/small_SmallBeamSupportedOverDoorHeader.jpg"
+  url_xsmall: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/xsmall_SmallBeamSupportedOverDoorHeader.jpg"
+  url_thumb: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/thumb_SmallBeamSupportedOverDoorHeader.jpg"
+  git_file_name: _assets/image_data/SmallBeamSupportedOverDoorHeader.json
+  path: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152225/SmallBeamSupportedOverDoorHeader.jpg"
+  alt: def
+  caption: ''
+- name: WallWithVentStays-BeamAndPostDetail
+  file_name: WallWithVentStays-BeamAndPostDetail.jpg
+  file_type: image/jpeg
+  url: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/WallWithVentStays-BeamAndPostDetail.jpg"
+  tags: ''
+  file_size: 1293096
+  width: 2000
+  height: 2667
+  description: ''
+  date_added: 2017-10-18-152257
+  url_large: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/large_WallWithVentStays-BeamAndPostDetail.jpg"
+  url_medium: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/medium_WallWithVentStays-BeamAndPostDetail.jpg"
+  url_small: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/small_WallWithVentStays-BeamAndPostDetail.jpg"
+  url_xsmall: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/xsmall_WallWithVentStays-BeamAndPostDetail.jpg"
+  url_thumb: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/thumb_WallWithVentStays-BeamAndPostDetail.jpg"
+  git_file_name: _assets/image_data/WallWithVentStays-BeamAndPostDetail.json
+  path: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-10-18-152257/WallWithVentStays-BeamAndPostDetail.jpg"
+  alt: ssss
+  caption: ''
+- name: pdf_logo_sample
+  file_name: pdf_logo_sample.gif
+  file_type: image/gif
+  url: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/pdf-logo-sample.gif"
+  tags: ''
+  file_size: 25122
+  width: 468
+  height: 400
+  description: ''
+  date_added: 2017-09-27-112307
+  url_large: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/large_pdf_logo_sample.gif"
+  url_medium: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/medium_pdf_logo_sample.gif"
+  url_small: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/small_pdf_logo_sample.gif"
+  url_xsmall: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/xsmall_pdf_logo_sample.gif"
+  url_thumb: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/thumb_pdf_logo_sample.gif"
+  git_file_name: _assets/image_data/pdf_logo_sample.json
+  path: "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/1_136_700/media/2017-09-27-112307/pdf-logo-sample.gif"
+  alt: abc
+  caption: ''
